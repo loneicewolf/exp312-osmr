@@ -20,7 +20,7 @@ Will include (NOT limited to):
  I also decided to make some 
  ## Automation in the following Areas
  1. Note taking (Cherrytree, Joplin and trilium(avail. Here as well on GitHub: https://github.com/zadam/trilium )
- 2. Code samples (Templates, so - it will be like using msfconsole, or PowershellEmpire - but for from scratch, specifically for Macs)
+ 2. Code samples (Templates, so - it will be like using msfconsole, or PowershellEmpire - but from scratch, specifically for Macs)
  3. many different ways (perspectives and methods of doing):
  4.   XPC Security
  5.   Symlink Security
