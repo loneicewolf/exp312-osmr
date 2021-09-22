@@ -4,7 +4,7 @@
 My Preparations for the "macOS Control Bypasses (EXP-312-osmr)" Course By OffensiveSecurity.
 
 
-[exp312 - Offensive Security](https://www.offensive-security.com/exp312-osmr/)
+[exp312 - At Offensive Security](https://www.offensive-security.com/exp312-osmr/)
 
 Will include (NOT limited to):
  - High-Level Overview of the security (of Mac os's)
